@@ -1,4 +1,4 @@
-# 5) A store charges Rs. 120 per item if you buy less than or equal to  10 items. If you buy 
+# 15) A store charges Rs. 120 per item if you buy less than or equal to  10 items. If you buy 
 # between 10 and 99 items, the cost isRs. 100 per item. If you buy 100 or more items, the 
 # cost is Rs. 70  per item. Write a program that asks the userhow many items they are buying 
 # and prints the total cost.
